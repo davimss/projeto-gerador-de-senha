@@ -4,7 +4,7 @@ import string
 #usarei este módulo pra importar os métodos shuffle e choice
 import random 
 
-#utilizando o método 'uppercase' para deixar o alfabeto minúsculo
+#utilizando o método 'lowercase' para deixar o alfabeto minúsculo
 caracteres = string.ascii_lowercase + string.digits
 lista_caracteres = [caracteres]
 

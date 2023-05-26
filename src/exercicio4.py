@@ -8,7 +8,7 @@ from random import randint
 
 #utilizando o método 'digits' para usar os números
 caracteres = string.digits
-lista_caracteres = [caracteres]
+lista_caracteres = []
 
 comprimento = 11
 
