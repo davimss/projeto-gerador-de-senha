@@ -4,8 +4,8 @@ import string
 #usarei este módulo pra importar os métodos shuffle e choice
 import random 
 
-#utilizando o método 'uppercase' para deixar o alfabeto maiúsculo
-caracteres = string.ascii_uppercase + string.digits
+#utilizando o método 'lowercase' para deixar o alfabeto minúsculo
+caracteres = string.ascii_lowercase + string.digits
 lista_caracteres = [caracteres]
 
 comprimento = int(input("Digite quantos caracteres a sua senha terá: "))
