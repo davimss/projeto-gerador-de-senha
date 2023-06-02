@@ -4,8 +4,6 @@ import string
 #usarei este módulo pra importar os métodos shuffle e choice
 import random 
 
-from random import randint
-
 #utilizando o método 'digits' para usar os números
 caracteres = string.digits
 lista_caracteres = []
